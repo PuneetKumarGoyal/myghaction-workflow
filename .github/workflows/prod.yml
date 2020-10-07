@@ -1,4 +1,4 @@
-name: build phase
+name: prod build phase
 
 on: [workflow_dispatch]
 
